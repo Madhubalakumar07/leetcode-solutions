@@ -18,9 +18,9 @@ class Solution {
                     }
                     else{
                         res.add(Arrays.asList(nums[i], nums[j], nums[k]));
-                        j++;
-                        while(nums[j] == nums[j-1] && j<k){
-                            j++;
+                        k--;
+                        while(j<k && nums[k] == nums[k+1]){
+                            k--;
                         }
                     }
                 }
