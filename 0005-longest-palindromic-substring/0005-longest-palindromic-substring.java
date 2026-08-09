@@ -1,7 +1,7 @@
 class Solution {
     public String longestPalindrome(String s) {
         String res = s.substring(0, 1);
-        for(int i=0; i<s.length()-1; i++){
+        for(int i=0; i<s.length(); i++){
             String odd = expandfromcenter(s, i, i);
             String even = expandfromcenter(s, i, i+1);
             if(odd.length() > res.length()){
