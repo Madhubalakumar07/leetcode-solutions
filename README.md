@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3731-find-missing-elements](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Database
 |  |
