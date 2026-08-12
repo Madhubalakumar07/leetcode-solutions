@@ -8,10 +8,8 @@ class Solution {
                 map.put(nums[st], map.get(nums[st])-1);
                 st++;
             }
-            if(map.get(nums[i]) <= k && (i-st+1) >= maxlen){
-                maxlen = i - st+1;
-            }
+            maxlen = Math.max(maxlen, (i-st+1));
         }
-        return maxlen == 0 ? nums.length : maxlen;
+        return maxlen;
     }
 }
