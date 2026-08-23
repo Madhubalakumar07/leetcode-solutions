@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1927-sum-game](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1927-sum-game](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1927-sum-game) |
 ## Timsort
 |  |
 | ------- |
