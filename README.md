@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
