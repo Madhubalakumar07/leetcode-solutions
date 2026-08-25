@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1927-sum-game](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1927-sum-game) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Database
@@ -202,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Counting
+|  |
+| ------- |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
