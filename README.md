@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1927-sum-game](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1927-sum-game) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
