@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0498-diagonal-traverse](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0713-subarray-product-less-than-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Queue
 |  |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
@@ -249,4 +254,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
