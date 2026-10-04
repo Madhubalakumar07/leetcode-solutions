@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
