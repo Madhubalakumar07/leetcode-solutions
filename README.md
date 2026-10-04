@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1927-sum-game](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1927-sum-game) |
 ## Sorting
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Game Theory
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
