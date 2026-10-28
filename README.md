@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0498-diagonal-traverse](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0713-subarray-product-less-than-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0740-delete-and-earn](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0740-delete-and-earn](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0740-delete-and-earn](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Game Theory
