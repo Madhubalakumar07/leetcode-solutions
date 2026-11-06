@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2747-count-zero-request-servers](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2747-count-zero-request-servers](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2747-count-zero-request-servers](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
