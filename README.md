@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0139-word-break](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -370,4 +375,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0494-target-sum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
