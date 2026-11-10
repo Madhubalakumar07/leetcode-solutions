@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3693-climbing-stairs-ii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3693-climbing-stairs-ii](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Game Theory
 |  |
 | ------- |
