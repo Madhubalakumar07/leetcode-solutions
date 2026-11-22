@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Madhubalakumar07/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
